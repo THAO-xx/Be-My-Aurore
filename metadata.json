@@ -1,0 +1,6 @@
+{
+  "name": "BE My Aurora",
+  "description": "Bilingual AI Companion & Interactive Portfolio of Aurore Dang Vu",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
